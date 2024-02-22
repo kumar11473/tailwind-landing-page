@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-commerce-tailwindcss/static/css/main.0f103a74.css",
+    "main.js": "/code-commerce-tailwindcss/static/js/main.65c84f86.js",
+    "index.html": "/code-commerce-tailwindcss/index.html",
+    "main.0f103a74.css.map": "/code-commerce-tailwindcss/static/css/main.0f103a74.css.map",
+    "main.65c84f86.js.map": "/code-commerce-tailwindcss/static/js/main.65c84f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f103a74.css",
+    "static/js/main.65c84f86.js"
+  ]
+}
