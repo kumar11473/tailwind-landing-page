@@ -1,8 +1,11 @@
+import React from "react";
+
+// import laptop from '../' 
 const Analytics = ()=>{
     return (
         <div className="w-full bg-white py-16 px-4 ">
         <div className="max-w-[1250px] mx-auto grid md:grid-cols-2" >
-            <img className="mx-auto w-[500px] " src='/assets/laptop.jpg'></img>
+            <img className="mx-auto w-[500px] " alt='' src={process.env.PUBLIC_URL+'/assets/laptop.jpg'}></img>
             <div className="flex flex-col justify-center my-3  ">
                 <p className="text-[#00df9a] font-bold">DATA ANALYTICS DASHBOARD</p>
                 <h1 className="font-bold text-2xl md:text-4xl sm:text-3xl">Manage Data Analytics Centrally</h1>
